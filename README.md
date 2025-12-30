@@ -78,9 +78,20 @@ validatedelimiters/
 
 - Requirements
    .NET 6.0 or higher
+   Visual Studio 2022 (recommended) or .NET CLI
 
-- Build
-   bash - "dotnet build"
+- Using Visual Studio (Recommended)
+   Open Visual Studio.
+   Click on File > Open > Project/Solution.
+   Select the `.sln` file of the project.
+   Open the terminal from:
+   - View > Terminal  
+     or  
+   - Tools > Command Line > Developer PowerShell
+   Run the following commands in the terminal.
+
+- Execute the commands below.
+   dotnet build
 
 - Run Tests
    dotnet test
