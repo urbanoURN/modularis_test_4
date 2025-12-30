@@ -1,0 +1,11 @@
+C:\modularis_all_test\test_4\validatedelimiters\validatedelimiters.Core\bin\Debug\net9.0\validatedelimiters.Core.deps.json
+C:\modularis_all_test\test_4\validatedelimiters\validatedelimiters.Core\bin\Debug\net9.0\validatedelimiters.Core.dll
+C:\modularis_all_test\test_4\validatedelimiters\validatedelimiters.Core\bin\Debug\net9.0\validatedelimiters.Core.pdb
+C:\modularis_all_test\test_4\validatedelimiters\validatedelimiters.Core\obj\Debug\net9.0\validatedelimiters.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\modularis_all_test\test_4\validatedelimiters\validatedelimiters.Core\obj\Debug\net9.0\validatedelimiters.Core.AssemblyInfoInputs.cache
+C:\modularis_all_test\test_4\validatedelimiters\validatedelimiters.Core\obj\Debug\net9.0\validatedelimiters.Core.AssemblyInfo.cs
+C:\modularis_all_test\test_4\validatedelimiters\validatedelimiters.Core\obj\Debug\net9.0\validatedelimiters.Core.csproj.CoreCompileInputs.cache
+C:\modularis_all_test\test_4\validatedelimiters\validatedelimiters.Core\obj\Debug\net9.0\validatedelimiters.Core.dll
+C:\modularis_all_test\test_4\validatedelimiters\validatedelimiters.Core\obj\Debug\net9.0\refint\validatedelimiters.Core.dll
+C:\modularis_all_test\test_4\validatedelimiters\validatedelimiters.Core\obj\Debug\net9.0\validatedelimiters.Core.pdb
+C:\modularis_all_test\test_4\validatedelimiters\validatedelimiters.Core\obj\Debug\net9.0\ref\validatedelimiters.Core.dll
